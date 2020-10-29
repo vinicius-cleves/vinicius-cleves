@@ -33,9 +33,8 @@ I plan to include more options on this website soon, like the area devastated on
 
 ### Portugal em Chamas (Portugal on Fire)
 [ [repository](https://github.com/vinicius-cleves/portugal-em-chamas) | [website](https://vinicius-cleves.github.io/portugal-em-chamas/) ]
-This is a spin-off from [Brazil em Chamas](#brasil-em-chamas). It is a joint effort with the collaborators from [JEST](http://www.jest.pt/), a Junior Enterprise from the University of Coimbra. 
 
-By the time of writing, this project has no commits yet, but probably when you read this it will already have.
+This is a spin-off from [Brazil em Chamas](#brasil-em-chamas). It is a joint effort with the collaborators from [JEST](http://www.jest.pt/), a Junior Enterprise from the University of Coimbra. 
 
 
 ## My Blog posts
