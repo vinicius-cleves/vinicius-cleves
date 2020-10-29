@@ -23,8 +23,8 @@ You can check the visualization created on [GitHub Pages](https://vinicius-cleve
 
 ### Brasil em Chamas (Brazil on Fire)
 [ [repository](https://github.com/vinicius-cleves/brasil-em-chamas) | [website](https://vinicius-cleves.github.io/brasil-em-chamas/) ]
-
 ![Brasil em chamas screenshot](public/brasil-em-chamas.jpg)
+
 Brazil is facing a growing number of devastation by wildfires. By the time of writing, only in Pantanal (Brazilian wetlands), more than 23,000 km2 were burned just on 2020. This number doesn't provide a clear picture of how much it represents, though, especially for people that are not a number person. 
 
 In order to offer people a clear dimension of the ongoing tragedy this devastation represents, I built a [website](https://vinicius-cleves.github.io/brasil-em-chamas/) where users can select a point on Brazil's map and it will mark a region around that point with area equivalent to the one destroyed on Pantanal.
