@@ -1,5 +1,8 @@
 # About me
 
+![](https://github.com/vinicius-cleves/github-stats-clone/blob/master/generated/overview.svg)
+![](https://github.com/vinicius-cleves/github-stats-clone/blob/master/generated/languages.svg)
+
 **Hi there 👋 My name is Vinicius Carmo!**
 
 I am a MSc student at the University of São Paulo, Brazil, under the computer engineering department. My topic of research is Question Answering Systems, and it involves a lot of Natural Language Processing and Machine Learning, specially Deep Leaning. 
